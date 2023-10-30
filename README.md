@@ -3,4 +3,5 @@ This is a side project where I have built a multimodel RAG which scrapes a html 
 
 
 ## High Level Architecture Diagram
-<img width="468" alt="image" src="https://github.com/Cenrax/MultimodalRag/assets/43017632/f7b4f4b7-7189-4967-a45d-5e1348861645">
+<img width="577" alt="image" src="https://github.com/Cenrax/MultimodalRag/assets/43017632/17364a60-a774-4d78-b5fe-133fa70ff2d1">
+
